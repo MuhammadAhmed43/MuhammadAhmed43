@@ -1,124 +1,143 @@
-<!-- ─── HERO ─────────────────────────────────────────────────────── -->
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │                            HERO                                │
+     └─────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5856d6,100:c2c1ff&height=220&section=header&text=Muhammed%20Ahmed&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20engineer%20%C2%B7%20full-stack%20builder%20%C2%B7%20systems%20thinker&descSize=18&descAlignY=58" alt="banner" />
-</div>
 
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:9d4edd,50:ff006e,100:00d9ff&height=280&section=header&text=MUHAMMED%20AHMED&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20AI%20that%20remembers%2C%20reasons%2C%20and%20scales&descAlign=50&descAlignY=62&descSize=18" alt="banner" />
 
   <a href="https://github.com/MuhammadAhmed43">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+AI+agents+%26+automations;Building+React+%2F+Next.js+apps;Wiring+systems+with+n8n;Obsessed+with+scalable+architecture&font=JetBrains%20Mono&size=22&pause=1000&color=C2C1FF&center=true&width=720&height=45" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=%3E+local-first+AI+systems;%3E+agentic+automation+%26+n8n+workflows;%3E+React+%2F+Next.js+%2F+FastAPI;%3E+obsessed+with+scalable+architecture" alt="typing" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <a href="https://github.com/MuhammadAhmed43">
-    <img src="https://komarev.com/ghpvc/?username=MuhammadAhmed43&label=Profile%20views&color=5856d6&style=for-the-badge" alt="profile views" />
-  </a>
-  <a href="mailto:muhamed.ahmed100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-c2c1ff?style=for-the-badge&logo=gmail&logoColor=1c0b9f" alt="email" />
-  </a>
-  <a href="https://github.com/MuhammadAhmed43?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-5856d6?style=for-the-badge&logo=github&logoColor=ffffff" alt="repos" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmed43&label=PROFILE+VIEWS&color=9d4edd&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/MuhammadAhmed43?label=FOLLOWERS&style=for-the-badge&color=ff006e&logo=github&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20MNEMOSYNE-00d9ff?style=for-the-badge" alt="status" />
 
 </div>
 
 <br/>
 
-<!-- ─── ABOUT ────────────────────────────────────────────────────── -->
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │                          WHOAMI                                │
+     └─────────────────────────────────────────────────────────────────┘ -->
 
-## About
-
-I'm a CS student who likes to build things that **remember**, **reason**, and **scale**.
-Local-first AI tooling, agentic automations, and full-stack apps that take the boring stuff off your plate.
+```bash
+muhammed@github ~ $ whoami --verbose
+```
 
 ```yaml
-focus:        AI agents · local-first tooling · automation
-stack:        Python · TypeScript · React/Next.js · FastAPI · n8n
-exploring:    LLM memory · agentic workflows · vector retrieval
-currently:    Building Mnemosyne — persistent memory for Claude, ChatGPT, Gemini
-mantra:       ship fast, measure twice, refactor when it earns its keep
+identity:     Muhammed Ahmed
+role:         CS Student · AI Engineer · Systems Builder
+focus:        local-first AI · agentic automation · full-stack web
+stack:        Python · TypeScript · React · Next.js · FastAPI · n8n
+exploring:    LLM memory · vector retrieval · agent orchestration
+currently:    Building Mnemosyne — persistent memory for Claude / ChatGPT / Gemini
+philosophy:   ship fast · measure twice · refactor when it earns its keep
 ```
 
 <br/>
 
-<!-- ─── STACK ────────────────────────────────────────────────────── -->
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │                           STACK                                │
+     └─────────────────────────────────────────────────────────────────┘ -->
 
-## Stack
+```bash
+muhammed@github ~ $ pkg --list-installed
+```
 
 <div align="center">
 
-  <p><strong>Languages</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bash" />
-  </p>
+  <p><strong>· LANGUAGES ·</strong></p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bash&perline=6" alt="languages" />
 
-  <p><strong>Frontend</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,figma" />
-  </p>
+  <p><strong>· FRONTEND ·</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,figma&perline=6" alt="frontend" />
 
-  <p><strong>Backend &amp; AI</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,sqlite,redis" />
-  </p>
+  <p><strong>· BACKEND  &amp;  AI ·</strong></p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,sqlite,redis,docker&perline=8" alt="backend" />
 
-  <p><strong>Tooling &amp; Infra</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,postman" />
-  </p>
+  <p><strong>· TOOLS ·</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel,notion,obsidian&perline=8" alt="tools" />
 
 </div>
 
 <br/>
 
-<!-- ─── FEATURED PROJECTS ────────────────────────────────────────── -->
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │                         PROJECTS                               │
+     └─────────────────────────────────────────────────────────────────┘ -->
 
-## Featured Work
+```bash
+muhammed@github ~ $ ls ~/projects/featured/
+```
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### [Mnemosyne](https://github.com/MuhammadAhmed43/Mnemosyne)
+#### `>>` [Mnemosyne](https://github.com/MuhammadAhmed43/Mnemosyne)
+
 > Local-first cognitive memory engine for Claude, ChatGPT and Gemini.
 
-A persistent memory layer that captures, structures, and recalls your AI conversations across every chat. LLM-driven extraction, conflict-aware reconciliation, 2D constellation + 3D explorer for the knowledge graph, Chrome extension + local engine.
+Captures, structures, and recalls AI conversations across every chat. LLM-driven extraction, conflict-aware reconciliation, 2D constellation + 3D explorer for the knowledge graph. Chrome extension + local engine.
 
-<sub>**FastAPI · Python · React · TypeScript · Plasmo · Ollama · cytoscape · three.js**</sub>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/three.js-000?style=flat-square&logo=three.js&logoColor=white" />
+</p>
 
   </td>
   <td width="50%" valign="top">
 
-### [ScholarBridge](https://github.com/MuhammadAhmed43/ScholarBridge)
-> Full-stack scholarship discovery & application platform.
+#### `>>` [ScholarBridge](https://github.com/MuhammadAhmed43/ScholarBridge)
 
-MERN application that helps students discover, track, and apply for scholarships — search, filters, profile-based matching, and a dashboard for application progress.
+> Full-stack scholarship discovery &amp; application platform.
 
-<sub>**MongoDB · Express · React · Node.js**</sub>
+MERN application that helps students discover, track, and apply for scholarships — search, filters, profile-based matching, application dashboard.
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
 
   </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### [GCIMS](https://github.com/MuhammadAhmed43/GCIMS)
+#### `>>` [GCIMS](https://github.com/MuhammadAhmed43/GCIMS)
+
 > Geo Car Inventory Management System.
 
-React frontend over a geospatial inventory backend — track vehicles across locations, filter by status, and manage stock with a map-first UI.
+Map-first inventory UI — track vehicles across locations, filter by status, manage stock with a geospatial dashboard.
 
-<sub>**React · Node.js · Geospatial APIs**</sub>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maps-9d4edd?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
   </td>
   <td width="50%" valign="top">
 
-### [Pakistan Water Shortage Predictor](https://github.com/MuhammadAhmed43/Pakistan-Water-Shortage-Predictor)
+#### `>>` [Pakistan Water Predictor](https://github.com/MuhammadAhmed43/Pakistan-Water-Shortage-Predictor)
+
 > Data-driven forecasting of regional water stress.
 
-Exploratory ML project: ingest hydrological + climate data, train forecasting models, and visualise shortage risk across Pakistan's provinces.
+Ingest hydrological + climate data, train forecasting models, visualise shortage risk across Pakistan's provinces.
 
-<sub>**Python · pandas · scikit-learn**</sub>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
 
   </td>
   </tr>
@@ -128,38 +147,41 @@ Exploratory ML project: ingest hydrological + climate data, train forecasting mo
 
 <br/>
 
-<!-- ─── STATS ────────────────────────────────────────────────────── -->
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │                          STATS                                 │
+     └─────────────────────────────────────────────────────────────────┘ -->
 
-## Stats
+```bash
+muhammed@github ~ $ git log --all --stat
+```
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmed43&show_icons=true&hide_border=true&title_color=c2c1ff&icon_color=c2c1ff&text_color=e3e2e7&bg_color=121317&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-streak-stats.demolab.com?user=MuhammadAhmed43&hide_border=true&background=121317&stroke=464554&ring=c2c1ff&fire=5856d6&currStreakLabel=c2c1ff&sideLabels=e3e2e7&currStreakNum=ffffff&sideNums=ffffff&dates=c7c4d6" alt="streak" />
-
-  <br/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmed43&layout=compact&hide_border=true&title_color=c2c1ff&text_color=e3e2e7&bg_color=121317&langs_count=8" alt="top langs" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=MuhammadAhmed43&cc=0d0208&tc=00d9ff&ic=ff006e&bc=9d4edd" alt="stats" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmed43&bg_color=121317&color=c2c1ff&line=5856d6&point=ffffff&area=true&area_color=5856d6&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmed43&bg_color=0d0208&color=00d9ff&line=ff006e&point=ffffff&area=true&area_color=9d4edd&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="activity graph" />
 
 </div>
 
 <br/>
 
-<!-- ─── CONNECT ──────────────────────────────────────────────────── -->
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │                         CONTACT                                │
+     └─────────────────────────────────────────────────────────────────┘ -->
 
-## Connect
+```bash
+muhammed@github ~ $ contact --info
+```
 
 <div align="center">
 
   <a href="mailto:muhamed.ahmed100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-c2c1ff?style=for-the-badge&logo=gmail&logoColor=1c0b9f" alt="email" />
+    <img src="https://img.shields.io/badge/EMAIL-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://github.com/MuhammadAhmed43">
-    <img src="https://img.shields.io/badge/GitHub-1c0b9f?style=for-the-badge&logo=github&logoColor=ffffff" alt="github" />
+    <img src="https://img.shields.io/badge/GITHUB-0d0208?style=for-the-badge&logo=github&logoColor=00d9ff" alt="github" />
   </a>
 
 </div>
@@ -167,5 +189,9 @@ Exploratory ML project: ingest hydrological + climate data, train forecasting mo
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2c1ff,100:5856d6&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:ff006e,100:9d4edd&height=120&section=footer" alt="footer" />
+</div>
+
+<div align="center">
+  <sub><code>// crafted in the terminal · always shipping</code></sub>
 </div>
