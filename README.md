@@ -4,18 +4,22 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:9d4edd,50:ff006e,100:00d9ff&height=280&section=header&text=MUHAMMED%20AHMED&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20AI%20that%20remembers%2C%20reasons%2C%20and%20scales&descAlign=50&descAlignY=62&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:ffd166,100:ff7a18&height=160&section=header" alt="banner" />
+
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=44&duration=2800&pause=900&color=FFD166&center=true&vCenter=true&width=800&height=60&lines=hey%2C+I'm+Muhammed+Ahmed+%F0%9F%91%8B;CS+student+%C2%B7+AI+engineer;%F0%9F%9A%A2+ship+%E2%86%92+%F0%9F%93%8F+measure+%E2%86%92+%F0%9F%94%81+refactor" alt="title" />
+  </h1>
 
   <a href="https://github.com/MuhammadAhmed43">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=%3E+local-first+AI+systems;%3E+agentic+automation+%26+n8n+workflows;%3E+React+%2F+Next.js+%2F+FastAPI;%3E+obsessed+with+scalable+architecture" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=700&color=FDF6E3&center=true&vCenter=true&width=760&height=42&lines=%3E+local-first+AI+systems;%3E+agentic+automation+%26+n8n+workflows;%3E+React+%2F+Next.js+%2F+FastAPI;%3E+obsessed+with+scalable+architecture" alt="typing" />
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmed43&label=PROFILE+VIEWS&color=9d4edd&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/MuhammadAhmed43?label=FOLLOWERS&style=for-the-badge&color=ff006e&logo=github&logoColor=white" alt="followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammadAhmed43&style=for-the-badge&color=00d9ff&logo=git&logoColor=white" alt="repos" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20MNEMOSYNE-9d4edd?style=for-the-badge" alt="status" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmed43&label=PROFILE+VIEWS&color=ff7a18&style=for-the-badge&logo=eyeem&logoColor=white" alt="views" />
+  <img src="https://img.shields.io/github/followers/MuhammadAhmed43?label=FOLLOWERS&style=for-the-badge&color=ffd166&logo=github&logoColor=black" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammadAhmed43&style=for-the-badge&color=fdf6e3&labelColor=0a0a0a&logo=git&logoColor=ff7a18" alt="repos" />
+  <img src="https://img.shields.io/badge/CURRENTLY-BUILDING%20MNEMOSYNE-ff7a18?style=for-the-badge&labelColor=0a0a0a" alt="status" />
 
 </div>
 
@@ -93,17 +97,17 @@ muhammed@github ~ $ ls ~/projects/featured/
 <div align="center">
 
   <a href="https://github.com/MuhammadAhmed43/Mnemosyne">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Mnemosyne&theme=tokyonight&hide_border=true&bg_color=0d0208&title_color=00d9ff&icon_color=ff006e&text_color=ffffff" alt="Mnemosyne" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Mnemosyne&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="Mnemosyne" />
   </a>
   <a href="https://github.com/MuhammadAhmed43/Atlier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Atlier&theme=tokyonight&hide_border=true&bg_color=0d0208&title_color=00d9ff&icon_color=ff006e&text_color=ffffff" alt="ATELIER" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Atlier&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="ATELIER" />
   </a>
 
   <a href="https://github.com/MuhammadAhmed43/Lumora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Lumora&theme=tokyonight&hide_border=true&bg_color=0d0208&title_color=00d9ff&icon_color=ff006e&text_color=ffffff" alt="Lumora" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Lumora&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="Lumora" />
   </a>
   <a href="https://github.com/MuhammadAhmed43/Instruction-Fusion-Decoder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Instruction-Fusion-Decoder&theme=tokyonight&hide_border=true&bg_color=0d0208&title_color=00d9ff&icon_color=ff006e&text_color=ffffff" alt="Instruction-Fusion-Decoder" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Instruction-Fusion-Decoder&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="Instruction-Fusion-Decoder" />
   </a>
 
 </div>
@@ -133,7 +137,7 @@ Captures, structures, and recalls AI conversations across every chat session. LL
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/three.js-000?style=flat-square&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-9d4edd?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM-ff7a18?style=flat-square" />
 </p>
 
   </td>
@@ -150,7 +154,7 @@ Generate brand-new garments from a written brief while preserving the silhouette
   <img src="https://img.shields.io/badge/diffusers-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/SSE-ff006e?style=flat-square" />
+  <img src="https://img.shields.io/badge/SSE-ff7a18?style=flat-square" />
 </p>
 
   </td>
@@ -182,7 +186,7 @@ Low-level systems exploration — instruction-level analysis, fusion candidates,
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Compilers-9d4edd?style=flat-square" />
+  <img src="https://img.shields.io/badge/Compilers-ff7a18?style=flat-square" />
 </p>
 
   </td>
@@ -190,6 +194,22 @@ Low-level systems exploration — instruction-level analysis, fusion candidates,
 </table>
 
 <sub>… plus <a href="https://github.com/MuhammadAhmed43/ScholarBridge">ScholarBridge</a>, <a href="https://github.com/MuhammadAhmed43/GCIMS">GCIMS</a>, and <a href="https://github.com/MuhammadAhmed43/Pakistan-Water-Shortage-Predictor">Pakistan Water Predictor</a> in the wider archive.</sub>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │                       JOKE OF THE DAY                          │
+     └─────────────────────────────────────────────────────────────────┘ -->
+
+```bash
+muhammed@github ~ $ fortune --dev
+```
+
+<div align="center">
+
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=0a0a0a&textColor=fdf6e3&qColor=ffd166&aColor=ff7a18" alt="joke of the day" />
+
+</div>
 
 <br/>
 
@@ -203,12 +223,12 @@ muhammed@github ~ $ git log --all --shortstat
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmed43&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0208&title_color=00d9ff&icon_color=ff006e&text_color=ffffff&ring_color=9d4edd" alt="stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhmed43&theme=tokyonight&hide_border=true&background=0d0208&stroke=9d4edd&ring=00d9ff&fire=ff006e&currStreakLabel=00d9ff" alt="streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmed43&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3&ring_color=ff7a18" alt="stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhmed43&hide_border=true&background=0a0a0a&stroke=ff7a18&ring=ffd166&fire=ff7a18&currStreakLabel=ffd166&sideLabels=fdf6e3&sideNums=fdf6e3&dates=fdf6e3&currStreakNum=fdf6e3" alt="streak" />
 
   <br/><br/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmed43&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d0208&title_color=00d9ff&text_color=ffffff" alt="top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmed43&layout=compact&langs_count=10&hide_border=true&bg_color=0a0a0a&title_color=ffd166&text_color=fdf6e3" alt="top languages" />
 
 </div>
 
@@ -216,13 +236,50 @@ muhammed@github ~ $ git log --all --shortstat
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhmed43&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhmed43&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmed43&bg_color=0d0208&color=00d9ff&line=ff006e&point=ffffff&area=true&area_color=9d4edd&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmed43&bg_color=0a0a0a&color=ffd166&line=ff7a18&point=fdf6e3&area=true&area_color=ff7a18&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="activity graph" />
 
 </div>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐
+     │                     SPECS vs REALITY                           │
+     └─────────────────────────────────────────────────────────────────┘ -->
+
+```bash
+muhammed@github ~ $ man muhammed | grep -A 999 "KNOWN ISSUES"
+```
+
+<table>
+  <tr>
+    <th align="left">JOB-POSTING WORLD</th>
+    <th align="left">REAL LIFE</th>
+  </tr>
+  <tr>
+    <td>10+ years of React experience required</td>
+    <td>Built React the year of its 19th birthday</td>
+  </tr>
+  <tr>
+    <td>"Self-starter, works well under pressure"</td>
+    <td>Wrote half of Mnemosyne at 4 AM, voluntarily</td>
+  </tr>
+  <tr>
+    <td>"Must enjoy collaborative environments"</td>
+    <td>Two rubber ducks. One of them judges silently.</td>
+  </tr>
+  <tr>
+    <td>"Strong attention to detail"</td>
+    <td>Will refactor your variable names for sport</td>
+  </tr>
+  <tr>
+    <td>"Bonus: Kubernetes, GraphQL, Rust, Web3, Solidity, …"</td>
+    <td>Bonus: I can explain <em>why</em> useEffect ran twice</td>
+  </tr>
+</table>
 
 <br/>
 
@@ -263,6 +320,21 @@ muhammed@github ~ $ cat ~/.principles
 <br/>
 
 <!-- ┌─────────────────────────────────────────────────────────────────┐
+     │                      EXIT CODE 0                               │
+     └─────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+  <img src="https://media.giphy.com/media/bSBKhIB2AaYJW/giphy.gif" alt="success — it compiled on the first try" width="380" />
+
+  <br/>
+  <sub><em>// the rare and beautiful moment when it compiles first try</em></sub>
+
+</div>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐
      │                          CONTACT                               │
      └─────────────────────────────────────────────────────────────────┘ -->
 
@@ -273,10 +345,10 @@ muhammed@github ~ $ contact --info
 <div align="center">
 
   <a href="mailto:muhamed.ahmed100@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/EMAIL-ff7a18?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://github.com/MuhammadAhmed43">
-    <img src="https://img.shields.io/badge/GITHUB-0d0208?style=for-the-badge&logo=github&logoColor=00d9ff" alt="github" />
+    <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=ffd166" alt="github" />
   </a>
 
 </div>
@@ -284,9 +356,9 @@ muhammed@github ~ $ contact --info
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:ff006e,100:9d4edd&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:ffd166,100:ff7a18&height=120&section=footer" alt="footer" />
 </div>
 
 <div align="center">
-  <sub><code>// crafted in the terminal · always shipping · always learning</code></sub>
+  <sub><code>// crafted in the terminal · always shipping · slightly under-caffeinated</code></sub>
 </div>
