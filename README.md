@@ -94,23 +94,56 @@ muhammed@github ~ $ pkg --list-installed
 muhammed@github ~ $ ls ~/projects/featured/
 ```
 
-<div align="center">
+<!-- Hand-built pin cards using shields.io — bulletproof, no rate limits,
+     no dependency on the github-readme-stats Vercel app which is
+     currently returning 503 on every endpoint. -->
 
-  <a href="https://github.com/MuhammadAhmed43/Mnemosyne">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Mnemosyne&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="Mnemosyne" />
-  </a>
-  <a href="https://github.com/MuhammadAhmed43/Atelier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Atelier&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="ATELIER" />
-  </a>
-
-  <a href="https://github.com/MuhammadAhmed43/Lumora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Lumora&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="Lumora" />
-  </a>
-  <a href="https://github.com/MuhammadAhmed43/Instruction-Fusion-Decoder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Instruction-Fusion-Decoder&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="Instruction-Fusion-Decoder" />
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MuhammadAhmed43/Mnemosyne">
+        <img src="https://img.shields.io/badge/%F0%9F%93%8C-MNEMOSYNE-ff7a18?style=for-the-badge&labelColor=0a0a0a" alt="Mnemosyne" />
+      </a><br/>
+      <sub>local-first cognitive memory engine for Claude · ChatGPT · Gemini</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/MuhammadAhmed43/Mnemosyne?style=flat-square&color=ffd166&labelColor=0a0a0a&logo=github" alt="stars" />
+      <img src="https://img.shields.io/github/forks/MuhammadAhmed43/Mnemosyne?style=flat-square&color=ff7a18&labelColor=0a0a0a&logo=git" alt="forks" />
+      <img src="https://img.shields.io/github/last-commit/MuhammadAhmed43/Mnemosyne?style=flat-square&color=fdf6e3&labelColor=0a0a0a&logo=githubactions&logoColor=ff7a18" alt="last commit" />
+      <img src="https://img.shields.io/github/languages/top/MuhammadAhmed43/Mnemosyne?style=flat-square&color=fdf6e3&labelColor=0a0a0a" alt="top lang" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MuhammadAhmed43/Atelier">
+        <img src="https://img.shields.io/badge/%F0%9F%93%8C-ATELIER-ff7a18?style=for-the-badge&labelColor=0a0a0a" alt="ATELIER" />
+      </a><br/>
+      <sub>controllable fashion synthesis — diffusion + ControlNet + LoRA</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/MuhammadAhmed43/Atelier?style=flat-square&color=ffd166&labelColor=0a0a0a&logo=github" alt="stars" />
+      <img src="https://img.shields.io/github/forks/MuhammadAhmed43/Atelier?style=flat-square&color=ff7a18&labelColor=0a0a0a&logo=git" alt="forks" />
+      <img src="https://img.shields.io/github/last-commit/MuhammadAhmed43/Atelier?style=flat-square&color=fdf6e3&labelColor=0a0a0a&logo=githubactions&logoColor=ff7a18" alt="last commit" />
+      <img src="https://img.shields.io/github/languages/top/MuhammadAhmed43/Atelier?style=flat-square&color=fdf6e3&labelColor=0a0a0a" alt="top lang" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MuhammadAhmed43/Lumora">
+        <img src="https://img.shields.io/badge/%F0%9F%93%8C-LUMORA-ff7a18?style=for-the-badge&labelColor=0a0a0a" alt="Lumora" />
+      </a><br/>
+      <sub>5-agent autonomous mobility companion for the visually impaired</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/MuhammadAhmed43/Lumora?style=flat-square&color=ffd166&labelColor=0a0a0a&logo=github" alt="stars" />
+      <img src="https://img.shields.io/github/forks/MuhammadAhmed43/Lumora?style=flat-square&color=ff7a18&labelColor=0a0a0a&logo=git" alt="forks" />
+      <img src="https://img.shields.io/github/last-commit/MuhammadAhmed43/Lumora?style=flat-square&color=fdf6e3&labelColor=0a0a0a&logo=githubactions&logoColor=ff7a18" alt="last commit" />
+      <img src="https://img.shields.io/github/languages/top/MuhammadAhmed43/Lumora?style=flat-square&color=fdf6e3&labelColor=0a0a0a" alt="top lang" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MuhammadAhmed43/Instruction-Fusion-Decoder">
+        <img src="https://img.shields.io/badge/%F0%9F%93%8C-INSTRUCTION--FUSION--DECODER-ff7a18?style=for-the-badge&labelColor=0a0a0a" alt="Instruction-Fusion-Decoder" />
+      </a><br/>
+      <sub>RISC-V instruction fusion decoder for downstream optimisation</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/MuhammadAhmed43/Instruction-Fusion-Decoder?style=flat-square&color=ffd166&labelColor=0a0a0a&logo=github" alt="stars" />
+      <img src="https://img.shields.io/github/forks/MuhammadAhmed43/Instruction-Fusion-Decoder?style=flat-square&color=ff7a18&labelColor=0a0a0a&logo=git" alt="forks" />
+      <img src="https://img.shields.io/github/last-commit/MuhammadAhmed43/Instruction-Fusion-Decoder?style=flat-square&color=fdf6e3&labelColor=0a0a0a&logo=githubactions&logoColor=ff7a18" alt="last commit" />
+      <img src="https://img.shields.io/github/languages/top/MuhammadAhmed43/Instruction-Fusion-Decoder?style=flat-square&color=fdf6e3&labelColor=0a0a0a" alt="top lang" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -221,25 +254,25 @@ muhammed@github ~ $ fortune --dev
 muhammed@github ~ $ git log --all --shortstat
 ```
 
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmed43&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3&ring_color=ff7a18" alt="stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhmed43&hide_border=true&background=0a0a0a&stroke=ff7a18&ring=ffd166&fire=ff7a18&currStreakLabel=ffd166&sideLabels=fdf6e3&sideNums=fdf6e3&dates=fdf6e3&currStreakNum=fdf6e3" alt="streak" />
-
-  <br/><br/>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmed43&layout=compact&langs_count=10&hide_border=true&bg_color=0a0a0a&title_color=ffd166&text_color=fdf6e3" alt="top languages" />
-
-</div>
-
-<br/>
+<!-- Streak is on streak-stats.demolab.com (the maintained mirror). The
+     old herokuapp.com URL became fragile after Heroku killed free dynos.
+     Main-stats + top-langs are replaced with shields.io equivalents
+     because github-readme-stats.vercel.app is intermittently 503-ing. -->
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhmed43&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=MuhammadAhmed43&hide_border=true&background=0a0a0a&stroke=ff7a18&ring=ffd166&fire=ff7a18&currStreakLabel=ffd166&sideLabels=fdf6e3&sideNums=fdf6e3&dates=fdf6e3&currStreakNum=fdf6e3" alt="streak" />
 
   <br/><br/>
 
+  <img src="https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammadAhmed43&style=for-the-badge&color=ff7a18&labelColor=0a0a0a&logo=git&logoColor=ffd166" alt="public repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=PUBLIC%20GISTS&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammadAhmed43&style=for-the-badge&color=ffd166&labelColor=0a0a0a&logo=github" alt="gists" />
+  <img src="https://img.shields.io/github/followers/MuhammadAhmed43?label=FOLLOWERS&style=for-the-badge&color=fdf6e3&labelColor=0a0a0a&logo=github&logoColor=ff7a18" alt="followers" />
+  <img src="https://img.shields.io/github/stars/MuhammadAhmed43?label=TOTAL%20STARS&style=for-the-badge&color=ff7a18&labelColor=0a0a0a&logo=star&logoColor=ffd166" alt="total stars" />
+
+  <br/><br/>
+
+  <!-- Activity graph (working) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmed43&bg_color=0a0a0a&color=ffd166&line=ff7a18&point=fdf6e3&area=true&area_color=ff7a18&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="activity graph" />
 
 </div>
