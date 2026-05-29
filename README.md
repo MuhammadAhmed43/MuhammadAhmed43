@@ -99,8 +99,8 @@ muhammed@github ~ $ ls ~/projects/featured/
   <a href="https://github.com/MuhammadAhmed43/Mnemosyne">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Mnemosyne&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="Mnemosyne" />
   </a>
-  <a href="https://github.com/MuhammadAhmed43/Atlier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Atlier&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="ATELIER" />
+  <a href="https://github.com/MuhammadAhmed43/Atelier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmed43&repo=Atelier&hide_border=true&bg_color=0a0a0a&title_color=ffd166&icon_color=ff7a18&text_color=fdf6e3" alt="ATELIER" />
   </a>
 
   <a href="https://github.com/MuhammadAhmed43/Lumora">
@@ -143,7 +143,7 @@ Captures, structures, and recalls AI conversations across every chat session. LL
   </td>
   <td width="50%" valign="top">
 
-#### `>>` [ATELIER](https://github.com/MuhammadAhmed43/Atlier)
+#### `>>` [ATELIER](https://github.com/MuhammadAhmed43/Atelier)
 
 > Controllable fashion image synthesis — Stable Diffusion + ControlNet + LoRA, with a live denoising theatre.
 
