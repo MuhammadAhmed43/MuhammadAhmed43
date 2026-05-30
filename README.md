@@ -10,11 +10,11 @@
   <img src="https://raw.githubusercontent.com/MuhammadAhmed43/MuhammadAhmed43/main/detective-header.svg?v=2" alt="noir alley header" width="100%" />
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=44&duration=2800&pause=900&color=F5F5F5&center=true&vCenter=true&width=800&height=60&lines=hey%2C+I'm+Muhammed+Ahmed;CS+student+%C2%B7+AI+engineer;ship+%E2%86%92+measure+%E2%86%92+refactor" alt="title" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=44&duration=3200&pause=1100&color=F5F5F5&center=true&vCenter=true&width=900&height=60&lines=hey%2C+I'm+Muhammed+Ahmed;CS+student+%C2%B7+AI+engineer;ship+%E2%86%92+measure+%E2%86%92+refactor;fluent+in+Python%2C+English%2C+and+apology;some+days+the+user%2C+some+days+the+bug" alt="title" />
   </h1>
 
   <a href="https://github.com/MuhammadAhmed43">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=700&color=F5F5F5&center=true&vCenter=true&width=760&height=42&lines=%3E+local-first+AI+systems;%3E+agentic+automation+%26+n8n+workflows;%3E+React+%2F+Next.js+%2F+FastAPI;%3E+obsessed+with+scalable+architecture" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=F5F5F5&center=true&vCenter=true&width=900&height=42&lines=%3E+local-first+AI+systems;%3E+the+IDE+knows+me+better+than+my+dentist+does;%3E+agentic+automation+%26+n8n+workflows;%3E+99.9%25+uptime+%C2%B7+12%25+sleep+%C2%B7+0%25+regrets;%3E+React+%C2%B7+Next.js+%C2%B7+FastAPI;%3E+obsessed+with+scalable+architecture+and+unscalable+feelings" alt="typing" />
   </a>
 
   <br/><br/>
