@@ -19,10 +19,10 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmed43&label=PROFILE+VIEWS&color=F5F5F5&style=for-the-badge&logo=eyeem&logoColor=black" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmed43&label=PROFILE+VIEWS&color=737373&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/github/followers/MuhammadAhmed43?label=FOLLOWERS&style=for-the-badge&color=BDBDBD&labelColor=0a0a0a&logo=github&logoColor=F5F5F5" alt="followers" />
   <img src="https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammadAhmed43&style=for-the-badge&color=737373&labelColor=0a0a0a&logo=git&logoColor=F5F5F5" alt="repos" />
-  <img src="https://img.shields.io/badge/CURRENTLY-BUILDING%20MNEMOSYNE-BDBDBD?style=for-the-badge&labelColor=0a0a0a" alt="status" />
+  <img src="https://img.shields.io/badge/CURRENTLY-INTERROGATING%20THE%20CACHE-BDBDBD?style=for-the-badge&labelColor=0a0a0a" alt="status" />
 
 </div>
 
