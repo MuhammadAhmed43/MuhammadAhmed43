@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 260" role="img" aria-label="detective magnifying glass scene">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#161616"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+
+    <radialGradient id="vign2" cx="50%" cy="50%" r="80%">
+      <stop offset="55%"  stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.75"/>
+    </radialGradient>
+
+    <filter id="grain2">
+      <feTurbulence type="fractalNoise" baseFrequency="0.95" numOctaves="2" seed="3" stitchTiles="stitch"/>
+      <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1   0 0 0 0.12 0"/>
+    </filter>
+
+    <!-- The magnified circle reveals brighter text underneath -->
+    <clipPath id="lens">
+      <circle cx="0" cy="0" r="48">
+        <animateTransform attributeName="transform" type="translate"
+                          values="110,135; 350,135; 350,135; 110,135"
+                          keyTimes="0;0.45;0.55;1"
+                          dur="9s" repeatCount="indefinite"/>
+      </circle>
+    </clipPath>
+  </defs>
+
+  <!-- ===== Background paper / desk surface ===== -->
+  <rect width="460" height="260" fill="url(#paper)"/>
+
+  <!-- ===== Top + bottom film-strip edges (thin) ===== -->
+  <rect y="0" width="460" height="6" fill="#1a1a1a"/>
+  <rect y="254" width="460" height="6" fill="#1a1a1a"/>
+
+  <!-- ===== Dim "evidence" text rows underneath the lens ===== -->
+  <g font-family="'Courier New', monospace" fill="#3a3a3a" opacity="0.7">
+    <text x="40" y="80"  font-size="11" letter-spacing="2">CASE FILE  ·  CLASSIFIED  ·  EYES ONLY</text>
+    <text x="40" y="110" font-size="11" letter-spacing="2">SUSPECT  ........  THE INTERN</text>
+    <text x="40" y="140" font-size="11" letter-spacing="2">MOTIVE   ........  HE PUSHED TO MAIN</text>
+    <text x="40" y="170" font-size="11" letter-spacing="2">WEAPON   ........  --force --no-verify</text>
+    <text x="40" y="200" font-size="11" letter-spacing="2">VERDICT  ........  GUILTY · CONDOLENCES</text>
+  </g>
+
+  <!-- ===== Bright revealed text (only visible inside the lens circle) ===== -->
+  <g clip-path="url(#lens)" font-family="'Courier New', monospace" fill="#f5f5f5" font-weight="bold">
+    <text x="40" y="80"  font-size="11" letter-spacing="2">CASE FILE  ·  CLASSIFIED  ·  EYES ONLY</text>
+    <text x="40" y="110" font-size="11" letter-spacing="2">SUSPECT  ........  THE INTERN</text>
+    <text x="40" y="140" font-size="11" letter-spacing="2">MOTIVE   ........  HE PUSHED TO MAIN</text>
+    <text x="40" y="170" font-size="11" letter-spacing="2">WEAPON   ........  --force --no-verify</text>
+    <text x="40" y="200" font-size="11" letter-spacing="2">VERDICT  ........  GUILTY · CONDOLENCES</text>
+  </g>
+
+  <!-- ===== Magnifying glass (handle + ring), moves across the page ===== -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+                      values="110,135; 350,135; 350,135; 110,135"
+                      keyTimes="0;0.45;0.55;1"
+                      dur="9s" repeatCount="indefinite"/>
+    <!-- Handle -->
+    <line x1="34" y1="34" x2="78" y2="78" stroke="#3a3a3a" stroke-width="10" stroke-linecap="round"/>
+    <line x1="34" y1="34" x2="78" y2="78" stroke="#8c8c8c" stroke-width="6" stroke-linecap="round"/>
+    <!-- Lens ring -->
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#bdbdbd" stroke-width="3"/>
+    <!-- Glass reflection -->
+    <ellipse cx="-18" cy="-22" rx="14" ry="7" fill="#ffffff" opacity="0.08"/>
+  </g>
+
+  <!-- ===== Vignette ===== -->
+  <rect width="460" height="260" fill="url(#vign2)"/>
+
+  <!-- ===== Film grain ===== -->
+  <rect width="460" height="260" filter="url(#grain2)" opacity="0.55"/>
+</svg>

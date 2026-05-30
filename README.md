@@ -7,7 +7,7 @@
   <!-- Custom animated SVG header — lightning bolts, sparks, CRT scan line,
        moving circuit pulses. Hosted in this repo so the SMIL animations
        survive GitHub's image proxy. -->
-  <img src="https://raw.githubusercontent.com/MuhammadAhmed43/MuhammadAhmed43/main/noir-header.svg" alt="electric header" width="100%" />
+  <img src="https://raw.githubusercontent.com/MuhammadAhmed43/MuhammadAhmed43/main/detective-header.svg" alt="electric header" width="100%" />
 
   <h1>
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=44&duration=2800&pause=900&color=F5F5F5&center=true&vCenter=true&width=800&height=60&lines=hey%2C+I'm+Muhammed+Ahmed+%E2%9A%A1;CS+student+%C2%B7+AI+engineer;%F0%9F%9A%A2+ship+%E2%86%92+%F0%9F%93%8F+measure+%E2%86%92+%F0%9F%94%81+refactor" alt="title" />
@@ -54,10 +54,10 @@ philosophy:   ship fast · measure twice · refactor when it earns its keep
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" alt="me debugging at 3am" width="420" />
+  <img src="https://raw.githubusercontent.com/MuhammadAhmed43/MuhammadAhmed43/main/detective-magnify.svg" alt="detective examining the crime scene (the stack trace)" width="460" />
 
   <br/>
-  <sub><em>// me · 3 AM · staring at a stack trace that "shouldn't be possible"</em></sub>
+  <sub><em>// 3 AM. The bug is right there. So is my will to live. One of them is missing.</em></sub>
 
 </div>
 
@@ -234,16 +234,23 @@ Low-level systems exploration — instruction-level analysis, fusion candidates,
 <br/>
 
 <!-- ┌─────────────────────────────────────────────────────────────────┐
-     │                       JOKE OF THE DAY                          │
+     │                       FILE: DARK COMEDY                        │
      └─────────────────────────────────────────────────────────────────┘ -->
 
 ```bash
-muhammed@github ~ $ fortune --dev
+muhammed@github ~ $ fortune --dev --black
 ```
+
+<!-- 12 hand-written dark-comedy one-liners on rotation via demolab's
+     typing SVG. Replaced the readme-jokes API because its output was
+     too mild for the new tone. -->
 
 <div align="center">
 
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=0a0a0a&textColor=f5f5f5&qColor=bdbdbd&aColor=f5f5f5" alt="joke of the day" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&color=F5F5F5&center=true&vCenter=true&width=1100&height=70&duration=5000&pause=1800&lines=Therapist+asked+what+I+do+for+self-care.+I+told+her%3A+I+git+stash+my+feelings.;404%3A+Joy+not+found.+Please+contact+your+manager.+He+was+laid+off.;Stack+Overflow+turned+17.+The+answer's+old+enough+to+drive.+The+question's+still+open.;Haven't+seen+the+sun+since+the+merge+on+the+14th.+My+houseplant+tried+to+comfort+me.+It+died+too.;%2F%2F+TODO+from+2019.+It's+a+TOMB+now.+Inside%3A+a+feature+no+one+wanted%2C+and+a+me+who+still+had+hope.;Doc+said+reduce+screen+time.+I+asked+if+therapy+counts.+He+said+only+IRL.+So+I+diagnose+myself+with+ChatGPT.;AI+is+taking+our+jobs.+Good.+I+wanted+to+be+a+poet.+Rent+was+due+in+2014.+Still+is.;Five+stages+of+debugging%3A+denial%2C+anger%2C+bargaining%2C+depression%2C+and+oh+--+typo+on+line+three.;Crypto+bros+call+it+a+rugpull.+We+call+it+a+4+PM+Friday+all-hands.+Same+energy.;Told+the+recruiter+I+have+10+years+of+Rust.+He+nodded.+We+both+knew.+Capitalism+is+a+trust+fall.;Named+the+variable+after+my+ex.+It+returned+undefined.+Even+JavaScript+gets+it.;Job+post+said+'fast-paced+startup.'+Translation%3A+cheaper+junior+in+18+months.+Call+it+rightsizing." alt="dark-comedy file" />
+
+  <br/>
+  <sub><em>// fresh case file every few seconds · no laugh track · pour something brown</em></sub>
 
 </div>
 
@@ -292,28 +299,36 @@ muhammed@github ~ $ man muhammed | grep -A 999 "KNOWN ISSUES"
 
 <table>
   <tr>
-    <th align="left">JOB-POSTING WORLD</th>
-    <th align="left">REAL LIFE</th>
+    <th align="left">WHAT THE JOB POST SAID</th>
+    <th align="left">WHAT THE EVIDENCE SUGGESTS</th>
   </tr>
   <tr>
-    <td>10+ years of React experience required</td>
-    <td>Built React the year of its 19th birthday</td>
+    <td>"10+ years of React experience required"</td>
+    <td>React is 12. The recruiter and I both knew. Neither spoke.</td>
   </tr>
   <tr>
     <td>"Self-starter, works well under pressure"</td>
-    <td>Wrote half of Mnemosyne at 4 AM, voluntarily</td>
+    <td>Did my best work the week my therapist canceled</td>
   </tr>
   <tr>
     <td>"Must enjoy collaborative environments"</td>
-    <td>Two rubber ducks. One of them judges silently.</td>
+    <td>Two rubber ducks. One left for a Series B. The other knows things.</td>
   </tr>
   <tr>
     <td>"Strong attention to detail"</td>
-    <td>Will refactor your variable names for sport</td>
+    <td>Will refactor your variable names at 3 AM, uninvited, in your sleep</td>
   </tr>
   <tr>
     <td>"Bonus: Kubernetes, GraphQL, Rust, Web3, Solidity, …"</td>
-    <td>Bonus: I can explain <em>why</em> useEffect ran twice</td>
+    <td>Bonus: I can explain <em>why</em> useEffect ran twice. And why I haven't slept since.</td>
+  </tr>
+  <tr>
+    <td>"Competitive salary, equity, unlimited PTO"</td>
+    <td>Competitive with what · equity in what · PTO from what life</td>
+  </tr>
+  <tr>
+    <td>"Looking for a culture fit"</td>
+    <td>I fit the culture. The culture is a layoff in Q3. I'll keep fitting.</td>
   </tr>
 </table>
 
@@ -328,11 +343,13 @@ muhammed@github ~ $ tail -f ~/notes/now.log
 ```
 
 ```diff
-+ shipping  →  ATELIER · controllable fashion image synthesis
-+ shipping  →  Mnemosyne · cross-LLM persistent memory
-~ reading   →  Latent Diffusion Models · ControlNet · LoRA papers
-~ learning  →  agentic workflows · n8n orchestration · MCP servers
-- avoiding  →  premature abstractions and 47-step onboarding flows
++ shipping   →  ATELIER · controllable fashion image synthesis
++ shipping   →  Mnemosyne · cross-LLM persistent memory
+~ reading    →  Latent Diffusion · ControlNet · LoRA papers
+~ learning   →  agentic workflows · MCP servers · the upper bound of caffeine
+- avoiding   →  premature abstractions, 47-step onboarding flows, my own LinkedIn
+- avoiding   →  recruiters who open with "quick question"
+- avoiding   →  the realization that my IDE has more friends than I do
 ```
 
 <br/>
@@ -361,10 +378,10 @@ muhammed@github ~ $ cat ~/.principles
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/bSBKhIB2AaYJW/giphy.gif" alt="success — it compiled on the first try" width="380" />
+  <img src="https://raw.githubusercontent.com/MuhammadAhmed43/MuhammadAhmed43/main/detective-case-closed.svg" alt="case closed stamp slams down" width="420" />
 
   <br/>
-  <sub><em>// the rare and beautiful moment when it compiles first try</em></sub>
+  <sub><em>// case closed. it compiled. i do not trust it. i never will again.</em></sub>
 
 </div>
 
@@ -396,5 +413,5 @@ muhammed@github ~ $ contact --info
 </div>
 
 <div align="center">
-  <sub><code>// crafted in the terminal · always shipping · slightly under-caffeinated</code></sub>
+  <sub><code>// crafted in the terminal · always shipping · slightly haunted</code></sub>
 </div>

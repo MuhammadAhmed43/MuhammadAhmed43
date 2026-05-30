@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 220" preserveAspectRatio="xMidYMid slice" role="img" aria-label="detective noir header">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#000000"/>
+      <stop offset="60%"  stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+
+    <radialGradient id="vignette" cx="50%" cy="50%" r="85%">
+      <stop offset="50%"  stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.7"/>
+    </radialGradient>
+
+    <!-- The off-screen window light shaft falling across the room from top-left -->
+    <linearGradient id="lightShaft" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="11" stitchTiles="stitch"/>
+      <feColorMatrix values="0 0 0 0 1
+                             0 0 0 0 1
+                             0 0 0 0 1
+                             0 0 0 0.13 0"/>
+    </filter>
+
+    <filter id="smokeBlur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+
+    <filter id="emberGlow"><feGaussianBlur stdDeviation="3"/></filter>
+
+    <filter id="signGlow"><feGaussianBlur stdDeviation="2"/></filter>
+
+    <!-- Clip rain to the upper area so it doesn't pile up under the sprocket strip -->
+    <clipPath id="frame"><rect x="0" y="0" width="1500" height="220"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- ===== Background ===== -->
+    <rect width="1500" height="220" fill="url(#bg)"/>
+
+    <!-- ===== Window light shaft falling diagonally from top-left ===== -->
+    <polygon points="0,0 620,0 360,220 0,220" fill="url(#lightShaft)"/>
+
+    <!-- ===== Venetian blind shadows cutting across the light shaft ===== -->
+    <g opacity="0.55">
+      <rect x="0" y="22"  width="620" height="3" fill="#000000"/>
+      <rect x="0" y="50"  width="620" height="3" fill="#000000"/>
+      <rect x="0" y="78"  width="620" height="3" fill="#000000"/>
+      <rect x="0" y="106" width="620" height="3" fill="#000000"/>
+      <rect x="0" y="134" width="620" height="3" fill="#000000"/>
+      <rect x="0" y="162" width="620" height="3" fill="#000000"/>
+      <rect x="0" y="190" width="620" height="3" fill="#000000"/>
+    </g>
+
+    <!-- ===== Rain (diagonal lines falling at varied speeds across the width) ===== -->
+    <g stroke="#9a9a9a" stroke-width="0.7" opacity="0.4">
+      <line x1="80"   y1="0" x2="60"   y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.9s" repeatCount="indefinite"/></line>
+      <line x1="160"  y1="0" x2="140"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.7s" begin="0.15s" repeatCount="indefinite"/></line>
+      <line x1="240"  y1="0" x2="220"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.85s" begin="0.3s" repeatCount="indefinite"/></line>
+      <line x1="320"  y1="0" x2="300"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.65s" begin="0.05s" repeatCount="indefinite"/></line>
+      <line x1="400"  y1="0" x2="380"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.95s" begin="0.4s" repeatCount="indefinite"/></line>
+      <line x1="480"  y1="0" x2="460"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.75s" begin="0.2s" repeatCount="indefinite"/></line>
+      <line x1="560"  y1="0" x2="540"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.88s" begin="0.55s" repeatCount="indefinite"/></line>
+      <line x1="640"  y1="0" x2="620"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.7s" begin="0.1s" repeatCount="indefinite"/></line>
+      <line x1="720"  y1="0" x2="700"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.92s" begin="0.35s" repeatCount="indefinite"/></line>
+      <line x1="800"  y1="0" x2="780"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.8s" begin="0.25s" repeatCount="indefinite"/></line>
+      <line x1="880"  y1="0" x2="860"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.68s" begin="0.45s" repeatCount="indefinite"/></line>
+      <line x1="960"  y1="0" x2="940"  y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.9s" begin="0.15s" repeatCount="indefinite"/></line>
+      <line x1="1040" y1="0" x2="1020" y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.78s" begin="0.5s" repeatCount="indefinite"/></line>
+      <line x1="1120" y1="0" x2="1100" y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.85s" begin="0.3s" repeatCount="indefinite"/></line>
+      <line x1="1200" y1="0" x2="1180" y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.72s" begin="0.4s" repeatCount="indefinite"/></line>
+      <line x1="1380" y1="0" x2="1360" y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.83s" begin="0.2s" repeatCount="indefinite"/></line>
+      <line x1="1460" y1="0" x2="1440" y2="60"><animateTransform attributeName="transform" type="translate" values="0,-80;0,260" dur="0.95s" begin="0.55s" repeatCount="indefinite"/></line>
+    </g>
+
+    <!-- ===== Detective silhouette (right side, fedora + trench coat) ===== -->
+    <g fill="#1f1f1f">
+      <!-- Coat body -->
+      <path d="M 1150 220
+               L 1150 130
+               L 1175 122
+               L 1180 105
+               L 1170 85
+               L 1180 70
+               L 1205 60
+               L 1245 60
+               L 1268 72
+               L 1278 90
+               L 1268 108
+               L 1273 122
+               L 1300 130
+               L 1300 220 Z"/>
+      <!-- Fedora brim -->
+      <ellipse cx="1224" cy="62" rx="62" ry="6"/>
+      <!-- Fedora crown -->
+      <path d="M 1180 62 Q 1224 25 1268 62 Z"/>
+      <!-- Cigarette -->
+      <rect x="1268" y="82" width="20" height="1.6" fill="#999" transform="rotate(-3 1278 83)"/>
+    </g>
+
+    <!-- ===== Rim light on the detective's left edge (light source is top-left window) ===== -->
+    <g stroke="#7a7a7a" fill="none" opacity="0.9">
+      <!-- Brim edge -->
+      <path d="M 1163 63 Q 1180 58 1195 60" stroke-width="1.4"/>
+      <!-- Crown top edge -->
+      <path d="M 1182 60 Q 1200 32 1220 28" stroke-width="1.1"/>
+      <!-- Shoulder + lapel edge -->
+      <path d="M 1180 70 L 1175 88 L 1182 105 L 1178 122 L 1153 130" stroke-width="1.2"/>
+    </g>
+
+    <!-- ===== Cigarette ember (pulsing) ===== -->
+    <circle cx="1290" cy="82" r="2.6" fill="#f5f5f5" filter="url(#emberGlow)">
+      <animate attributeName="opacity" values="0.55;1;0.7;1;0.55" dur="2.1s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="2.4;3.2;2.6;3;2.4" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- ===== Smoke wisps drifting up from the cigarette ===== -->
+    <g filter="url(#smokeBlur)" fill="none" stroke-linecap="round">
+      <path d="M 1290 78 C 1295 60, 1285 45, 1297 28 S 1290 5, 1300 -20"
+            stroke="#c8c8c8" stroke-width="11" opacity="0">
+        <animate attributeName="opacity" values="0;0.45;0.28;0.1;0" keyTimes="0;0.2;0.55;0.85;1" dur="6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,30;0,-50" dur="6s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 1290 78 C 1300 55, 1280 38, 1295 18 S 1285 -5, 1298 -28"
+            stroke="#b8b8b8" stroke-width="13" opacity="0">
+        <animate attributeName="opacity" values="0;0.4;0.3;0.1;0" keyTimes="0;0.2;0.55;0.85;1" dur="7s" begin="2.5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,35;0,-60" dur="7s" begin="2.5s" repeatCount="indefinite"/>
+      </path>
+      <!-- Persistent ghost smoke -->
+      <path d="M 1290 78 C 1295 60, 1285 45, 1297 28 S 1290 5, 1300 -20"
+            stroke="#999" stroke-width="7" opacity="0.13"/>
+    </g>
+
+    <!-- ===== Flickering neon sign on the far right wall ===== -->
+    <g font-family="'Courier New', monospace" font-weight="bold" text-anchor="end">
+      <text x="1480" y="125" font-size="22" fill="#bdbdbd" filter="url(#signGlow)" letter-spacing="3">
+        NO VACANCY
+        <animate attributeName="opacity" values="1;1;0.4;1;1;1;0.2;1;1" dur="3.5s" repeatCount="indefinite"/>
+      </text>
+      <text x="1480" y="148" font-size="11" fill="#888" letter-spacing="2">
+        ROOM 217 · OPEN 24 HRS
+        <animate attributeName="opacity" values="0.7;0.7;0.3;0.7;0.7" dur="3.5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- ===== Film grain overlay ===== -->
+    <rect width="1500" height="220" filter="url(#grain)" opacity="0.65"/>
+
+    <!-- ===== Vignette ===== -->
+    <rect width="1500" height="220" fill="url(#vignette)"/>
+  </g>
+</svg>
