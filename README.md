@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/MuhammadAhmed43/MuhammadAhmed43/main/detective-header.svg?v=2" alt="noir alley header" width="100%" />
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=44&duration=3200&pause=1100&color=F5F5F5&center=true&vCenter=true&width=900&height=60&lines=hey%2C+I'm+Muhammed+Ahmed;CS+student+%C2%B7+AI+engineer;ship+%E2%86%92+measure+%E2%86%92+refactor;fluent+in+Python%2C+English%2C+and+apology;some+days+the+user%2C+some+days+the+bug" alt="title" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=44&duration=3200&pause=1100&color=F5F5F5&center=true&vCenter=true&width=950&height=60&lines=hey%2C+I'm+Muhammed+Ahmed;CS+student+%C2%B7+AI+engineer;ship+%E2%86%92+measure+%E2%86%92+refactor;git+blame+names+me;haunted+by+my+own+commits" alt="title" />
   </h1>
 
   <a href="https://github.com/MuhammadAhmed43">
