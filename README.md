@@ -398,7 +398,7 @@ muhammed@github ~ $ contact --info
 <div align="center">
 
   <a href="mailto:muhamed.ahmed100@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-f5f5f5?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/EMAIL-f5f5f5?style=for-the-badge&logo=gmail&logoColor=0a0a0a" alt="email" />
   </a>
   <a href="https://github.com/MuhammadAhmed43">
     <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=bdbdbd" alt="github" />
