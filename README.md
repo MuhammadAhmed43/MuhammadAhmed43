@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/MuhammadAhmed43/MuhammadAhmed43/main/detective-header.svg?v=2" alt="noir alley header" width="100%" />
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=44&duration=2800&pause=900&color=F5F5F5&center=true&vCenter=true&width=800&height=60&lines=hey%2C+I'm+Muhammed+Ahmed+%E2%9A%A1;CS+student+%C2%B7+AI+engineer;%F0%9F%9A%A2+ship+%E2%86%92+%F0%9F%93%8F+measure+%E2%86%92+%F0%9F%94%81+refactor" alt="title" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=44&duration=2800&pause=900&color=F5F5F5&center=true&vCenter=true&width=800&height=60&lines=hey%2C+I'm+Muhammed+Ahmed;CS+student+%C2%B7+AI+engineer;ship+%E2%86%92+measure+%E2%86%92+refactor" alt="title" />
   </h1>
 
   <a href="https://github.com/MuhammadAhmed43">
